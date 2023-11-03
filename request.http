@@ -1,0 +1,8 @@
+post http://localhost:4002/products
+Content-Type: application/json
+
+{
+    "name": "Caneta Vermelha",
+    "price": 5
+}   //  Função POST das informações do nome e preço do produto;
+
